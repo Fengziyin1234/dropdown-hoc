@@ -1,0 +1,23 @@
+{
+  "name": "dropdown-hoc",
+  "version": "0.0.1",
+  "description": "A simple HOC of dropdown which handles the dropdown close.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fengziyin1234/dropdown-hoc.git"
+  },
+  "keywords": [
+    "dropdown",
+    "hoc"
+  ],
+  "author": "Ziyin Feng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fengziyin1234/dropdown-hoc/issues"
+  },
+  "homepage": "https://github.com/Fengziyin1234/dropdown-hoc#readme"
+}
